@@ -1,4 +1,4 @@
-# API для Yatube
+# Проект «API для социальной сети»
 
 [![Python](https://img.shields.io/badge/-Python-464641?style=flat-square&logo=Python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-464646?style=flat-square&logo=django)](https://www.djangoproject.com/)
@@ -7,7 +7,7 @@
 
 ## Описание
 
-Яндекс Практикум. Спринт 9. Итоговый проект. API для Yatube.
+API для социальной сети, в которой пользователи могут публиковать записи/сообщения и просматривать сообщению других пользователей. Реализованы механизм комментариев к записям, возможность подписки на публикации интересующий авторов. Для аутентификации используется JWT-токен.
 
 ## Функционал
 
